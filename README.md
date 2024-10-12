@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">| 📒 Atualmente estudando Programação Orientada a Objeto e fundamentos de programação em C++<br>| 💻 Aberto principalmente na colaborações de desafios<br>| 😄 Pronomes: Ele/Dele<br>| 👀 Curiosidade: Gosto de jogar basquete e videogame no meu tempo livre, além disso também gosto de expandir meu conhecimento sobre algum framework ou nova linguagem</p>
+<p align="left">| 📒 Atualmente estudando Programação Orientada a Objeto em Python e fundamentos de programação em C++<br>| 💻 Aberto principalmente na colaborações de desafios<br>| 😄 Pronomes: Ele/Dele<br>| 👀 Curiosidade: Gosto de jogar basquete e videogame no meu tempo livre, além disso também gosto de expandir meu conhecimento sobre algum framework ou nova linguagem</p>
 
 ###
 
