@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Um pouco sobre mim --></h2>
+<h2 align="left">Sobre mim 👉</h2>
 
 ###
 
@@ -21,17 +21,14 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
 
-<div align="left">
-</div>
-
-###
-
-<h2 align="left">📞 Como me Encontrar --></h2>
+<h2 align="left">📞 Como me Encontrar</h2>
 
 ###
 
