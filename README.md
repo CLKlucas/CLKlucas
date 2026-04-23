@@ -1,41 +1,36 @@
-<h1 align="left">Olá 👋</h1>
+<h1 align="left">Olá! Me chamo Lucas Gomes 👋</h1>
 
 ###
 
-<p align="left">Meu nome é Lucas Gomes e atualmente estou cursando Redes de Computadores na Universidade Federal do Ceará 🧑‍🎓. Estou me empenhando bastante para um dia me tornar um Grande Profissional na área de Tecnologia da Informação (TI)🧑‍💻</p>
+<p align="left">
+
+**Estudante de Engenharia de Software | Desenvolvedor Backend (estudando para ser Fullstack)**
+
+Atualmente sou Estudante da Universidade Federal do Ceará (UFC) e estou focado em sempre está evoluindo com novos conhecimentos e sempre buscando soluções práticas para através do software proporcionar a resolução de problemas do dia a dia utilizando arquiteturas viáveis e código limpo. </p>
 
 ###
 
-<h2 align="left">Sobre mim 👉</h2>
+<h2 align="left">Tecnologias utilizadas</h2>
+<div style="display: inline_block"><br/> 
+  <img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="35" alt="python"  />
+  <img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="35" alt="java logo"  />
+  <img align="center" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="springboot" height="35" />
+  <img align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" height="35" />
+  <img align="center" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git" height="35" />
+  
 
-###
 
-<p align="left">| 📒 Atualmente estudando Programação Orientada a Objeto em Python e fundamentos de programação em C++<br>| 💻 Aberto principalmente na colaborações de desafios<br>| 👀 Curiosidade: Gosto de jogar basquete e videogame no meu tempo livre, além disso também gosto de expandir meu conhecimento sobre algum framework ou nova linguagem</p>
-
-###
-
-<h2 align="left">Linguagens Utilizadas</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
 </div>
 
 ###
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 <h2 align="left">📞 Como me Encontrar</h2>
 
-###
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-gomes-077148347/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/clk_lucas/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucasneed2005@gmail.com)
 
-<div align="left">
-  <a href="https://www.instagram.com/clk_lucas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
 
 ###
