@@ -23,7 +23,7 @@ Atualmente sou Estudante da Universidade Federal do Ceará (UFC) e estou focado 
 </div>
 
 ###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLKlucas&show_icons=true&theme=radical)
 
 
 <h2 align="left">📞 Como me Encontrar</h2>
