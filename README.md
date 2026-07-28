@@ -22,10 +22,6 @@ Atualmente sou Estudante da Universidade Federal do Ceará (UFC) e estou focado 
 
 </div>
 
-###
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CLKlucas&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLklucas&layout=donut&theme=radical)
 
 
 <h2 align="left">📞 Como me Encontrar</h2>
